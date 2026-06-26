@@ -1,1 +1,1 @@
-python-exercises 
+this repo for training my python level 
